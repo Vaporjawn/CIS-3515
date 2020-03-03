@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Lab6</string>
+
+    <string-array name="array1">
+        <item>WHITE</item>
+        <item>BLUE</item>
+        <item>GREEN</item>
+        <item>YELLOW</item>
+        <item>RED</item>
+        <item>BLACK</item>
+        <item>CYAN</item>
+        <item>GRAY</item>
+        <item>MAGENTA</item>
+        <item>DARKGRAY</item>
+    </string-array>
+
+    <string-array name="array2">
+        <item>WHITE</item>
+        <item>BLUE</item>
+        <item>GREEN</item>
+        <item>YELLOW</item>
+        <item>RED</item>
+        <item>BLACK</item>
+        <item>CYAN</item>
+        <item>GRAY</item>
+        <item>MAGENTA</item>
+        <item>DARKGRAY</item>
+    </string-array>
+
+
+</resources>

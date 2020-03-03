@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyActivityProject</string>
+
+    <string-array name="MyArray"/>
+    <item name="item1" />
+    <item name="item1" />
+</resources>
